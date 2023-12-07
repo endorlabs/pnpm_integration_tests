@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/endorlabs/js-integration-tests#readme",
   "dependencies": {
-    "semver": "6.0.0",
+    "semver": "6.3.1",
     "@pnpmtests/util": "workspace:*"
   },
   "devDependencies": {

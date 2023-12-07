@@ -18,8 +18,8 @@ importers:
         specifier: 3.0.0
         version: 3.0.0
       semver:
-        specifier: 6.0.0
-        version: 6.0.0
+        specifier: 6.3.1
+        version: 6.3.1
     devDependencies:
       '@babel/highlight':
         specifier: ~7.0.0
@@ -88,8 +88,8 @@ packages:
       mime-db: 1.52.0
     dev: false
 
-  /semver@6.0.0:
-    resolution: {integrity: sha512-0UewU+9rFapKFnlbirLi3byoOuhrSsli/z/ihNnvM24vgF+8sNBiI1LZPBSH9wJKUwaUbw+s3hToDLCXkrghrQ==}
+  /semver@6.3.1:
+    resolution: {integrity: sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==}
     hasBin: true
     dev: false
 
